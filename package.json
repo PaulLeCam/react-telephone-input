@@ -34,6 +34,9 @@
     "url": "https://github.com/mukeshsoni/react-telephone-input/issues"
   },
   "homepage": "https://github.com/mukeshsoni/react-telephone-input",
+  "dependencies": {
+    "lodash": "^2.4.1"  
+  },
   "devDependencies": {
     "browserify": "^6.1.0",
     "node-lessify": "0.0.6",
@@ -42,7 +45,6 @@
     "watchify": "^2.0.0"
   },
   "peerDependencies": {
-    "lodash": "^2.4.1",
     "react": "^0.12.1"
   }
 }
